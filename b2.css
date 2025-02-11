@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h1,h2,p{
+    color: yellowgreen;
+    text-decoration: aqua;
+}
+p {
+    border-bottom: 1px dotted;
+}
